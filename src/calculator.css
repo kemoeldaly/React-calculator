@@ -1,0 +1,13 @@
+/* src/Calculator.css */
+.calculator {
+    /* Your existing styles */
+    /* ... */
+  
+    /* Animation for result change */
+    transition: background-color 0.3s ease;
+  }
+  
+  .calculator.result-changed {
+    background-color: #aaffaa; /* Adjust the color as needed */
+  }
+  
